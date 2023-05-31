@@ -1,0 +1,640 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #ffffff;
+    position: absolute;
+    left: 38.28%;
+    right: 46.94%;
+    top: 13.67%;
+    bottom: 82.17%;
+}
+
+#foto1{
+    margin-top: -50%;
+    margin-left: -260%;
+
+}
+
+#foto2{
+  margin-top: -100%;
+  margin-left: 360%;
+
+}
+
+
+
+#foto3{
+    position: absolute;
+    width: 134px;
+    height: 600px;
+    left: 500px;
+    top: -50px;
+
+}
+
+#dog1{
+  margin-top: -1045px;
+  margin-left: -350px;
+
+}
+
+#dog2{
+margin-top: 60px;
+margin-left: -350px;
+
+}
+
+#dog3{
+margin-top: 60px;
+margin-left: -348px;
+
+}
+
+#dog4{
+margin-top: -722px;
+margin-left: 20px;
+
+}
+
+#dog5{
+margin-top: 55px;
+margin-left: 20px;
+
+}
+
+#dog6{
+margin-top: 70px;
+margin-left: 20px;
+
+}
+
+#dog7{
+margin-top: -710px;
+margin-left: 405px;
+}
+
+#dog8{
+  margin-top: 75px;
+  margin-left: 400px;
+
+}
+
+#dog9{
+  margin-top: 75px;
+  margin-left: 400px;
+
+}
+
+#texto1{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 600px;
+    height: 100px;
+    left: -127px;
+    top: 100px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+  #Nome1{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 200px;
+    margin-left: -160px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome2{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 460px;
+    margin-left: -157px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome3{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 730px;
+    margin-left: -150px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome4{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 200px;
+    margin-left: 220px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome5{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 460px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome6{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 730px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome7{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 200px;
+    margin-left: 600px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome8{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 460px;
+    margin-left: 590px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Nome9{
+    color: #3772FF;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 100px;
+    top: 730px;
+    margin-left: 580px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc1{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 240px;
+    margin-left: -155px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc2{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 320px;
+    margin-left: -155px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc3{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 495px;
+    margin-left: -155px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc4{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 580px;
+    margin-left: -155px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc5{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 768px;
+    margin-left: -155px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc6{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 840px;
+    margin-left: -155px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc7{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 235px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc8{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 320px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc9{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 497px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc10{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 577px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  
+  #Desc11{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 760px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc12{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 840px;
+    margin-left: 220px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc13{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 235px;
+    margin-left: 600px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc14{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 320px;
+    margin-left: 595px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc15{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 497px;
+    margin-left: 595px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc16{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 577px;
+    margin-left: 595px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+  #Desc17{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 760px;
+    margin-left: 580px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #Desc18{
+    color: #737380;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    top: 840px;
+    margin-left: 580px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  button{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 350px;
+    margin-left: -185px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button2{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 605px;
+    margin-left: -185px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button3{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 870px;
+    margin-left: -185px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button4{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 350px;
+    margin-left: 195px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button5{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 605px;
+    margin-left: 195px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button6{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 870px;
+    margin-left: 190px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button7{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 350px;
+    margin-left: 570px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button8{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 605px;
+    margin-left: 570px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+  #button9{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    width: 0px;
+    top: 870px;
+    margin-left: 570px;
+    border: transparent;
+    cursor: pointer;
+
+  }
+
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 5fr 5fr 5fr; /* Define três colunas de tamanho igual */
+    gap: 30px; /* Define um espaçamento entre as colunas */
+    margin-top: -650px;
+    margin-left: -360px;
+
+}
+
+  .item {
+    background-color: #f2f2f2;
+    padding: 110px;
+    width: 130px;
+  }
+
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: 5fr 5fr 5fr; /* Define três colunas de tamanho igual */
+    gap: 30px; /* Define um espaçamento entre as colunas */
+    margin-top: 40px;
+    margin-left: -360px;
+
+}
+
+  .item2 {
+    background-color: #f2f2f2;
+    padding: 110px;
+    width: 130px;
+  }
+
+  .grid-container3 {
+    display: grid;
+    grid-template-columns: 5fr 5fr 5fr; /* Define três colunas de tamanho igual */
+    gap: 30px; /* Define um espaçamento entre as colunas */
+    margin-top: 40px;
+    margin-left: -360px;
+
+}
+
+  .item3 {
+    background-color: #f2f2f2;
+    padding: 110px;
+    width: 130px;
+    
+  }
+
+  .grid-container4 {
+    display: grid;
+    grid-template-columns: 5fr 5fr 5fr; /* Define três colunas de tamanho igual */
+    gap: 30px; /* Define um espaçamento entre as colunas */
+    margin-top: 100px;
+    margin-left: -315px;
+
+}
+
+  .item4 {
+    background-color: #ffffff;
+    padding: 110px;
+    width: 90px;
+    
+  }
+
+  footer{
+    position: absolute;
+    width: 1535px;
+    height: 100px;
+    left: -590px;
+    top: 1150px;
+    background: #36D6AD;
+
+}
+
+
+
+  
